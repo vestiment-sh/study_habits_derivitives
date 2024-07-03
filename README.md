@@ -1,5 +1,6 @@
 # Study Habit Derivatives
 
+<img src="images/DALL·E 2024-07-03 13.10.55 - Design a logo for a coding project called 'Study Habit Derivatives' without including the text. The logo should be modern and sleek, featuring element.png" alt="Study Habit Derivatives" width="500"/>
 This project analyzes study habits and derives potential professions for students based on their responses. The analysis leverages Python, natural language processing (NLP), and data manipulation libraries to process and interpret survey data.
 
 ## Introduction
