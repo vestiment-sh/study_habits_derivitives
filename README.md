@@ -1,1 +1,1 @@
-# study_habits_derivitives
+# Study Habit Derivatives
